@@ -19,10 +19,13 @@ Guilloche &middot; Rosettes &middot; Security grids &middot; Borders &middot; Vi
 ---
 
 ## Screenshots
+<p align="center">
+  <img src="screenshots/01.png" width="820" alt="SPHRAGIS ART STUDIO PRO 2">
+</p>
 
-| Main workspace | 
-|---|---|
-| <img src="screenshots/01_main_en.png" width="480" alt="Main workspace"> | 
+<p align="center">
+  <img src="screenshots/04_wizard.png" width="820" alt="Preset wizard">
+</p>
 
 
 ## What is this?
