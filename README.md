@@ -20,13 +20,10 @@ Guilloche &middot; Rosettes &middot; Security grids &middot; Borders &middot; Vi
 
 ## Screenshots
 
-| Main workspace | Imperial banknote preset |
+| Main workspace | 
 |---|---|
-| <img src="screenshots/01_main_en.png" width="480" alt="Main workspace"> | <img src="screenshots/02_banknote.png" width="480" alt="Banknote preset"> |
+| <img src="screenshots/01_main_en.png" width="480" alt="Main workspace"> | 
 
-| Preset wizard (8 templates) | Russian interface |
-|---|---|
-| <img src="screenshots/04_wizard.png" width="480" alt="Preset wizard"> | <img src="screenshots/06_main_ru.png" width="480" alt="Russian interface"> |
 
 ## What is this?
 
